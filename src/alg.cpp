@@ -24,5 +24,3 @@ int gcd(int a, int b) {
    }
     return 0;
 }
-
-   cout<<gcd(18,30);
